@@ -1,0 +1,3 @@
+/Users/sergiogarcia/Desktop/cpp_sort_lists/build/CMakeFiles/sort.dir
+/Users/sergiogarcia/Desktop/cpp_sort_lists/build/CMakeFiles/edit_cache.dir
+/Users/sergiogarcia/Desktop/cpp_sort_lists/build/CMakeFiles/rebuild_cache.dir
